@@ -39,4 +39,4 @@ You can click the Preview link to take a look at your changes.
 <div align='center'> 
 </div>
 
-![snake gif](https://github.com/banjman81/banjman81/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/banjman81/banjman81/blob/output/github-contribution-grid-snake.svg" />
